@@ -1,18 +1,34 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ultron1239901&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ultron1239901&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ultron1239901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b69,100:6d28d9&height=280&section=header&text=Vaibhav&fontSize=70&fontColor=e9d5ff&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ultron1239901&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-2d1b69?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6d28d9&labelColor=1a0b2e" />
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7c3aed&labelColor=1a0b2e&label=Followers" />
+<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e&label=Stars" />
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ultron1239901&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🟣 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/purple-line.svg" width="0" />
+
+```yaml
+name: "Vaibhav"
+role: "Software Engineer | AI/ML Engineer | Full-Stack Developer"
+focus:
+  - Building autonomous multi-agent AI systems
+  - Engineering scalable full-stack platforms
+  - Product-minded, deadline-driven execution under hackathon constraints
+philosophy: "Ship polished, production-grade systems — not just prototypes"
