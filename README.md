@@ -221,7 +221,7 @@ Built and optimized machine learning models against real-world datasets, owning 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavp99&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ultron1239901&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -231,7 +231,7 @@ Built and optimized machine learning models against real-world datasets, owning 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavp99&theme=react-dark&bg_color=0f0524&color=A78BFA&line=6a3de8&point=e9e2ff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ultron1239901&theme=react-dark&bg_color=0f0524&color=A78BFA&line=6a3de8&point=e9e2ff&hide_border=true" width="100%"/>
 
 </div>
 
