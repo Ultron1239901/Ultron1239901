@@ -17,13 +17,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0524?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0524?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vaibhavp99)
 [![Email](https://img.shields.io/badge/Email-0f0524?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vaibhavp9901@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/vaibhavp99)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Ultron1239901)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavp99&style=for-the-badge&color=6a3de8&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/vaibhavp99?style=for-the-badge&color=8b5cf6&labelColor=0f0524&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/vaibhavp99?style=for-the-badge&color=A78BFA&labelColor=0f0524&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ultron1239901&style=for-the-badge&color=6a3de8&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Ultron1239901?style=for-the-badge&color=8b5cf6&labelColor=0f0524&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Ultron1239901?style=for-the-badge&color=A78BFA&labelColor=0f0524&label=STARS)
 
 </div>
 
@@ -120,7 +120,7 @@ An AI-powered cloud orchestration platform that automates AWS resource provision
 | **Performance** | Reduced manual intervention through automated recovery and deployment pipelines |
 | **Security** | AWS IAM-scoped resource provisioning, Redis-backed state management |
 | **Impact** | Improved deployment reliability and cut manual cloud-ops time |
-| **Repository** | [github.com/vaibhavp99/nexus-ops](https://github.com/vaibhavp99) |
+| **Repository** | [github.com/Ultron1239901/nexus-ops](https://github.com/Ultron1239901) |
 
 Built to solve a real operational pain point — the manual toil of provisioning and monitoring cloud infrastructure. NEXUS OPS layers intelligent automation on top of AWS EC2 and Redis, using a multi-agent design so provisioning, deployment, and recovery can run and self-correct independently, improving both deployment velocity and system reliability.
 
@@ -139,7 +139,7 @@ A blockchain-enabled agricultural supply chain platform providing QR-based trace
 | **Performance** | Real-time dashboard rendering of seasonal demand and price trend data |
 | **Security** | Blockchain-backed transaction history for tamper-resistant traceability |
 | **Impact** | Enabled data-driven decisions for farmers and buyers via demand forecasting |
-| **Repository** | [github.com/vaibhavp99/agri-traceability](https://github.com/vaibhavp99) |
+| **Repository** | [github.com/Ultron1239901/agri-traceability](https://github.com/Ultron1239901) |
 
 Combines blockchain integrity with practical analytics: the traceability layer secures the supply chain data, while the built-in dashboards turn that same data into seasonal demand curves, regional pricing trends, and forecasts — giving both farmers and buyers a clearer basis for negotiation and planning.
 
@@ -195,10 +195,10 @@ Built and optimized machine learning models against real-world datasets, owning 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0524?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vaibhavp99)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0f0524?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/vaibhavp99)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0f0524?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/vaibhavp99)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0f0524?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/vaibhavp99)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0524?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Ultron1239901)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0f0524?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/Ultron1239901)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0f0524?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/Ultron1239901)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0f0524?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/Ultron1239901)
 
 </div>
 
@@ -208,10 +208,10 @@ Built and optimized machine learning models against real-world datasets, owning 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavp99&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8b5cf6&text_color=e9e2ff&ring_color=6a3de8" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavp99&theme=radical&hide_border=true&background=0f0524&ring=6a3de8&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ultron1239901&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8b5cf6&text_color=e9e2ff&ring_color=6a3de8" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultron1239901&theme=radical&hide_border=true&background=0f0524&ring=6a3de8&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavp99&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=e9e2ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron1239901&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=e9e2ff" width="49%"/>
 
 </div>
 
@@ -242,11 +242,11 @@ Built and optimized machine learning models against real-world datasets, owning 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+      srcset="https://raw.githubusercontent.com/Ultron1239901/Ultron1239901/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+      srcset="https://raw.githubusercontent.com/Ultron1239901/Ultron1239901/output/github-snake.svg"/>
     <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+      src="https://raw.githubusercontent.com/Ultron1239901/Ultron1239901/output/github-snake.svg"/>
   </picture>
 </p>
 
@@ -282,7 +282,7 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/vaibhavp9901@gmail.com-0f0524?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:vaibhavp9901@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0524?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vaibhavp99)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/vaibhavp99)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Ultron1239901)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0524?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio-url.com)
 
 </div>
